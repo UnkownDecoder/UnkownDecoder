@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h6 align="center">I don’t debug errors; I negotiate with them.<br>And trust me, I always win.Hello World!!</h6>
+<h6 align="center">I don’t debug errors; I negotiate with them.<br>And trust me, I always win.</h6>
 
 ###
 
